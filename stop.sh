@@ -41,5 +41,5 @@ echo "---- stop a Container for ${imageTag}"
 echo "---------------------------------------------"
 
 cleanup
-
+exit
 
